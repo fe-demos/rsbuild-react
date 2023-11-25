@@ -1,0 +1,15 @@
+body {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+
+    .app {
+        width: 100w;
+        height: 100vh;
+
+        .counter {
+            .increase {
+                display: inline-block;
+                margin-right: 10px;
+            }
+        }
+    }
+}
